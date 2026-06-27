@@ -171,6 +171,8 @@ https://github.com/laertjansen/HyperNeon
 
 <img width="1920" height="1080" alt="HyperNeonScreenshot_4" src="https://github.com/user-attachments/assets/54b8e657-2ecf-42c8-8b7b-25ef3ddb86f7" />
 
+<img width="1920" height="1080" alt="HyperNeonScreenshot_7" src="https://github.com/user-attachments/assets/dcb3e3f4-4e25-40be-a4d0-0cab02188a1e" />
+
 Space Zombies Smash
 
 https://github.com/laertjansen/SpaceZombiesSmash
