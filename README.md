@@ -133,6 +133,8 @@ https://play.google.com/store/apps/details?id=com.LaertJansen.TheArtverse&hl=en
 
 <img width="1280" height="720" alt="MyArtVerse_12" src="https://github.com/user-attachments/assets/1c72599e-754e-4e98-a321-d2eb3845d179" />
 
+<img width="1280" height="720" alt="MyArtVerse_6" src="https://github.com/user-attachments/assets/6b3f341e-bee0-409a-9d8f-1bf01377487f" />
+
 Meow Time
 
 Welcome to Meow Time, the ultimate digital pet experience! Are you ready to meet your new furry friend? Install now for free and start petting the cutest kitten ever!
@@ -161,7 +163,7 @@ https://github.com/laertjansen/Unspoken
 
 <img width="1920" height="1080" alt="UnspokenScreenshot_3" src="https://github.com/user-attachments/assets/6cdf2dca-da59-4ae6-b3b1-aff2b4d77a65" />
 
-Hyperneon
+HyperNeon
 
 https://github.com/laertjansen/HyperNeon
 
@@ -184,6 +186,9 @@ https://github.com/laertjansen/CosmicRoads
 <img width="1920" height="1080" alt="Screenshot1" src="https://github.com/user-attachments/assets/1ce63ce3-b2cd-4217-b318-798d6e64a821" />
 
 <img width="1920" height="1080" alt="Screenshot8" src="https://github.com/user-attachments/assets/53ed3fbf-4feb-49c9-b3ed-5d9462bd5fe0" />
+
+<img width="1920" height="1080" alt="Screenshot7" src="https://github.com/user-attachments/assets/24b6029d-43e2-43f3-9d26-fb5733cc63f9" />
+
 
 
 
