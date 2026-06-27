@@ -197,9 +197,7 @@ https://github.com/laertjansen/CosmicRoads
 
 Samsung Galaxy Watch7
 
-I've also created and developed some watch faces for the Samsung Galaxy Watch7.
-
-These loops were created in TouchDesigner and refined in After Effects.
+I've also designed and developed watch faces for the Samsung Galaxy Watch7. These loops were generated in TouchDesigner and refined in After Effects.
 
 <img width="470" height="264" alt="EpicenterWatch" src="https://github.com/user-attachments/assets/7f56b254-7330-4727-83c2-079756a6242d" />
 
