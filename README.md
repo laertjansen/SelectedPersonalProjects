@@ -1,4 +1,4 @@
-A collection of selected personal projects including games, prototypes, and novels.
+A collection of selected personal projects including games, apps, prototypes, 2D/3D concepts, and visual novels.
 
 The Runner
 
