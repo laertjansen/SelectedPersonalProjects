@@ -259,8 +259,9 @@ Lastly, these are some visual and motion concepts I developed over the past few 
 
 <img width="470" height="264" alt="Gif3" src="https://github.com/user-attachments/assets/7a3070e2-248d-4bad-8462-c3f0db725f4b" />
 
+<img width="470" height="264" alt="Gif7" src="https://github.com/user-attachments/assets/7333ec29-fc54-4205-8b0b-15eb263d9cf7" />
 
-
+<img width="470" height="264" alt="Displaced3" src="https://github.com/user-attachments/assets/fa4467f4-8112-4318-9df7-601f1684e29f" />
 
 
 
