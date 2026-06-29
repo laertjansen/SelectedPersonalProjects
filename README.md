@@ -4,7 +4,7 @@ The Runner
 
 A short interactive journey through the story of humankind, how we got here, our struggles, and what might be next.
 
-https://laertjansen.itch.io/runner
+https://laertjansen.itch.io/therunner
 
 <img width="1920" height="1080" alt="Runner_Screenshot2" src="https://github.com/user-attachments/assets/30cde7d7-b46a-4c98-b34a-9da5e6c61ed6" />
 
