@@ -52,6 +52,12 @@ https://laertjansen.itch.io/le-art
 
 <img width="1920" height="1080" alt="LeArt_ScreenShot4" src="https://github.com/user-attachments/assets/2700cc51-b015-4590-bcca-aefe8c6efd99" />
 
+<img width="1280" height="720" alt="Rise_1280" src="https://github.com/user-attachments/assets/751f2e2b-7de1-4ba5-94e1-bac03e8471ea" />
+
+<img width="1280" height="720" alt="Joy_1280" src="https://github.com/user-attachments/assets/b6dbc6b9-28c8-4a24-88eb-39dd0ac1e9d1" />
+
+<img width="1280" height="720" alt="Real_1280" src="https://github.com/user-attachments/assets/eafcbf4c-f806-444a-bc49-2dc3afe06bdb" />
+
 Namu
 
 An interactive scene built in Unreal Engine where visitors are invited to care for the last surviving trees on Earth by watering them.
@@ -107,6 +113,8 @@ This is a simple, unfinished 2D side-scroller experience created in Unreal Engin
 https://laertjansen.itch.io/bees-and-flowers
 
 <img width="1920" height="1080" alt="BeesAndFlowers_Screenshot2" src="https://github.com/user-attachments/assets/9007fd29-ba48-4040-b9c8-77d9c4cc98ea" />
+
+<img width="1920" height="1080" alt="BeesAndFlowers_Screenshot3" src="https://github.com/user-attachments/assets/d9152052-392b-42f1-91db-7eb1fa744924" />
 
 Space Jitters
 
@@ -262,6 +270,10 @@ Lastly, these are some visual and motion concepts I developed over the past few 
 <img width="470" height="264" alt="Gif7" src="https://github.com/user-attachments/assets/7333ec29-fc54-4205-8b0b-15eb263d9cf7" />
 
 <img width="470" height="264" alt="Displaced3" src="https://github.com/user-attachments/assets/fa4467f4-8112-4318-9df7-601f1684e29f" />
+
+<img width="470" height="264" alt="Amor" src="https://github.com/user-attachments/assets/495625e5-db03-494d-a351-bb9c0235f25e" />
+
+<img width="470" height="264" alt="VRDrivingAnim_12" src="https://github.com/user-attachments/assets/6304384c-b29a-4745-a898-f533cc654e79" />
 
 
 
