@@ -219,7 +219,7 @@ https://github.com/laertjansen/CosmicRoads
 
 Samsung Galaxy Watch7
 
-I've also designed and developed watch faces for the Samsung Galaxy Watch7. These loops were generated in TouchDesigner and refined in After Effects.
+I've designed and developed watch faces for the Samsung Galaxy Watch7. These loops were created in TouchDesigner and refined in After Effects.
 
 <img width="470" height="264" alt="EpicenterWatch" src="https://github.com/user-attachments/assets/7f56b254-7330-4727-83c2-079756a6242d" />
 
@@ -237,9 +237,9 @@ I've also designed and developed watch faces for the Samsung Galaxy Watch7. Thes
 
 <img width="470" height="264" alt="Glitch" src="https://github.com/user-attachments/assets/41a6601c-3e75-4505-9c08-8fabfe9dacec" />
 
-2D/3D Concepts
+Explorations
 
-Lastly, these are some visual and motion concepts I developed over the past few years, created mainly with Unreal Engine, TouchDesigner, Cinema 4D, Photoshop and After Effects.
+These are some motion concepts, VR experiences, and 3D interaction experiments I developed over the past few years using tools such as Unreal Engine, TouchDesigner, Cinema 4D, Photoshop, and After Effects.
 
 <img width="470" height="264" alt="Gif20" src="https://github.com/user-attachments/assets/7fa3fde6-137d-4062-a4ba-8a4a0e9a05da" />
 
@@ -289,6 +289,9 @@ Lastly, these are some visual and motion concepts I developed over the past few 
 
 <img width="470" height="264" alt="VRDrivingAnim_12" src="https://github.com/user-attachments/assets/6304384c-b29a-4745-a898-f533cc654e79" />
 
+<img width="470" height="264" alt="VRDrivingAnim_5" src="https://github.com/user-attachments/assets/35c65f37-039a-401b-87d7-9f9e94e47973" />
+
+<img width="470" height="264" alt="VRDrivingAnim_10" src="https://github.com/user-attachments/assets/a0c0624c-63c7-4ae7-9982-4ccef3eb73c5" />
 
 
 
