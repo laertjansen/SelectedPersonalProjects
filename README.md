@@ -64,6 +64,8 @@ https://laertjansen.itch.io/le-art
 
 <img width="3840" height="2160" alt="Pattern2" src="https://github.com/user-attachments/assets/a8e66ab3-c121-470e-89f2-a4987b0df1dd" />
 
+<img width="1280" height="720" alt="Leart_8_1280" src="https://github.com/user-attachments/assets/92852d04-d05f-4821-b96a-309d78c3d148" />
+
 Namu
 
 An interactive scene built in Unreal Engine where visitors are invited to care for the last surviving trees on Earth by watering them.
@@ -166,6 +168,8 @@ https://play.google.com/store/apps/details?id=com.LaertJansen.MeowTime&hl=en
 <img width="1280" height="720" alt="GooglePlay_1280" src="https://github.com/user-attachments/assets/d3b74dbe-4bd7-4222-9b4c-ba2078d1171e" />
 
 <img width="1280" height="720" alt="Cats_1280" src="https://github.com/user-attachments/assets/21cfc78d-9150-49ef-884b-ae6f82cda490" />
+
+<img width="1280" height="720" alt="MeowTime_4_1280" src="https://github.com/user-attachments/assets/9a81ec27-11dd-453b-b910-968b5cab13b5" />
 
 <img width="1280" height="720" alt="Cat1_1280" src="https://github.com/user-attachments/assets/6df59aca-946c-4789-b739-61862e67031a" />
 
