@@ -173,6 +173,8 @@ https://play.google.com/store/apps/details?id=com.LaertJansen.MeowTime&hl=en
 
 <img width="1280" height="720" alt="Cats_1280" src="https://github.com/user-attachments/assets/21cfc78d-9150-49ef-884b-ae6f82cda490" />
 
+<img width="1280" height="720" alt="MeowTime_With_Background" src="https://github.com/user-attachments/assets/aad94731-59e5-4012-970f-00e8a5eaf7ad" />
+
 <img width="1280" height="720" alt="MeowTime_4_1280" src="https://github.com/user-attachments/assets/9a81ec27-11dd-453b-b910-968b5cab13b5" />
 
 <img width="1280" height="720" alt="Cat1_1280" src="https://github.com/user-attachments/assets/6df59aca-946c-4789-b739-61862e67031a" />
