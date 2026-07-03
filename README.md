@@ -317,8 +317,9 @@ These are some motion concepts, VR experiences, and 3D interaction experiments I
 
 <img width="470" height="264" alt="VRInvaders" src="https://github.com/user-attachments/assets/75253362-3f38-4fc7-abf5-86ed29abf441" />
 
+<img width="470" height="264" alt="Arduino_Anim4" src="https://github.com/user-attachments/assets/9c18d118-6139-4010-9157-1bb26c51a8f8" />
 
-
+<img width="470" height="264" alt="GemGif" src="https://github.com/user-attachments/assets/10a6fddc-544d-473e-be50-451a82abd75b" />
 
 
 
