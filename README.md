@@ -136,6 +136,9 @@ A simple retro shoot'em up featuring fast-paced gameplay, pixelated explosions, 
 
 https://laertjansen.itch.io/space-jitters
 
+Also published on Google Play:
+https://play.google.com/store/apps/details?id=com.LaertJansen.SpaceJitters
+
 <img width="1280" height="720" alt="SpaceJitters_Atari_1" src="https://github.com/user-attachments/assets/28ab00ee-ba42-4487-ae73-aa39818d70b7" />
 
 <img width="1280" height="720" alt="HandPhone_6" src="https://github.com/user-attachments/assets/df230d03-dd6d-414a-a205-d851a2641df7" />
