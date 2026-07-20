@@ -10,6 +10,8 @@ https://laertjansen.itch.io/therunner
 
 <img width="1920" height="1080" alt="Runner_Screenshot1" src="https://github.com/user-attachments/assets/84745b6d-f928-4f71-b898-32c26e892a34" />
 
+<img width="1280" height="720" alt="Runner_Sheet" src="https://github.com/user-attachments/assets/c54cb2a0-392b-4eac-bed7-d37e8197e419" />
+
 Postcards Across Time 
 
 Two souls navigate distance, memory, and longing in a brief interactive journey of six chapters, exploring a love that transcends time and space.
