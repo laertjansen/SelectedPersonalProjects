@@ -62,6 +62,10 @@ https://laertjansen.itch.io/le-art
 
 <img width="1280" height="720" alt="Real_1280" src="https://github.com/user-attachments/assets/eafcbf4c-f806-444a-bc49-2dc3afe06bdb" />
 
+<img width="1280" height="720" alt="Time_1280" src="https://github.com/user-attachments/assets/0af3fd8d-4d98-4371-b47c-a342b97ca0f0" />
+
+<img width="1280" height="720" alt="Face_1280" src="https://github.com/user-attachments/assets/8b8ded66-76c8-4a29-b38d-0a6ee7eed3e0" />
+
 <img width="1280" height="720" alt="Pattern_1" src="https://github.com/user-attachments/assets/0ec3510f-db2e-41ad-87c5-7623a94df95e" />
 
 <img width="3840" height="2160" alt="Pattern2" src="https://github.com/user-attachments/assets/a8e66ab3-c121-470e-89f2-a4987b0df1dd" />
