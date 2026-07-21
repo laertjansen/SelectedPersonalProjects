@@ -192,6 +192,20 @@ https://play.google.com/store/apps/details?id=com.LaertJansen.MeowTime&hl=en
 
 <img width="1280" height="720" alt="Cat2_1280" src="https://github.com/user-attachments/assets/8e917a2a-5383-49b1-8596-5d918dfde226" />
 
+Walkman Sports
+
+A futuristic take on the Walkman that still holds onto its 80s design language, chunky buttons, cassette door, and all. I modeled it in Blender, then built the real-time 3D scene around it in Unreal Engine.
+
+<img width="1280" height="720" alt="Walkman_1280" src="https://github.com/user-attachments/assets/0a1b56f0-ea84-4919-b0b7-6e447a740e80" />
+
+<img width="1920" height="1080" alt="Walkman_Purple_1920" src="https://github.com/user-attachments/assets/c7687dcf-7d5c-4daf-b81a-a0c35681c7a2" />
+
+<img width="1280" height="720" alt="Walkman_Wire_1280" src="https://github.com/user-attachments/assets/a4e5870c-eba7-4c84-a5e3-c6d17e479627" />
+
+<img width="1280" height="720" alt="Walkman_BP_1280" src="https://github.com/user-attachments/assets/64300b80-e5db-4fd1-91a8-9fb7d969cee4" />
+
+<img width="1280" height="720" alt="Walkman_Collisions_1280" src="https://github.com/user-attachments/assets/b631bf47-146a-4a24-83b6-e23c8d2a754a" />
+
 A few other projects, hosted in their own repositories, include:
 
 A Chat With Saudade
